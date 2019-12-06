@@ -1,9 +1,5 @@
 # encoding=utf-8
-'''
-data : 2019-8-6
-author : 不正经程序员
-goal : 抓取猫眼数据
-'''
+
 import os
 import csv
 import random
